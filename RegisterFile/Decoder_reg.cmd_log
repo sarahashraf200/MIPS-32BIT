@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/sarah/Desktop/Register_File/Decoder_reg.xst" -ofn "C:/Users/sarah/Desktop/Register_File/Decoder_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Decoder_reg.ngc Decoder_reg.ngd  
+xst -intstyle ise -ifn "C:/Users/sarah/Desktop/Register_File/Decoder_reg.xst" -ofn "C:/Users/sarah/Desktop/Register_File/Decoder_reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Decoder_reg.ngc Decoder_reg.ngd  

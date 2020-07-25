@@ -1,0 +1,32 @@
+Running: M:\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/mohme/Desktop/Register_File/RegisterFileTest_isim_beh.exe -prj C:/Users/mohme/Desktop/Register_File/RegisterFileTest_beh.prj work.RegisterFileTest 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/mohme/Desktop/Register_File/MyPackage.vhd" into library work
+Parsing VHDL file "C:/Users/mohme/Desktop/Register_File/reg.vhd" into library work
+Parsing VHDL file "C:/Users/mohme/Desktop/Register_File/Mux.vhd" into library work
+Parsing VHDL file "C:/Users/mohme/Desktop/Register_File/Decoder_reg.vhd" into library work
+Parsing VHDL file "C:/Users/mohme/Desktop/Register_File/RegisterFile.vhd" into library work
+Parsing VHDL file "C:/Users/mohme/Desktop/Register_File/../../Downloads/RegisterFileTest.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 182256 KB
+Fuse CPU Usage: 343 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling package mypackage
+Compiling architecture behavioral of entity Decoder_reg [decoder_reg_default]
+Compiling architecture behavioral of entity reg [\reg(32)\]
+Compiling architecture behavioral of entity Mux [mux_default]
+Compiling architecture behavioral of entity RegisterFile [registerfile_default]
+Compiling architecture behavior of entity registerfiletest
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+Compiled 15 VHDL Units
+Built simulation executable C:/Users/mohme/Desktop/Register_File/RegisterFileTest_isim_beh.exe
+Fuse Memory Usage: 204180 KB
+Fuse CPU Usage: 687 ms

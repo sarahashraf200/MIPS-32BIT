@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/mohme/Desktop/Register_File/RegisterFileTest_isim_beh.exe" -prj "C:/Users/mohme/Desktop/Register_File/RegisterFileTest_beh.prj" "work.RegisterFileTest" 

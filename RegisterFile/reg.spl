@@ -1,0 +1,7 @@
+[Inputs]
+CLK
+LD
+=I[31:0]=
+[Outputs]
+=O[31:0]=
+[BiDir]

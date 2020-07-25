@@ -1,0 +1,2 @@
+vhdtdtfi -lib work MyPackage.vhd -lib work reg.vhd -prj Register_File -o reg.spl -module reg -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 reg.spl C:/Users/sarah/Desktop/Register_File/reg.sym 

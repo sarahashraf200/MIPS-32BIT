@@ -1,0 +1,2 @@
+vhdl work "Decoder_reg.vhd"
+vhdl work "MyPackage.vhd"

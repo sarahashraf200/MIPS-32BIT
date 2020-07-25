@@ -1,0 +1,8 @@
+work	"M.vhd"
+work	"adder.vhd"
+work	"alu.vhd"
+work	"alu32.vhd"
+work	"fulladder.vhd"
+work	"m1.vhd"
+work	"msbalu.vhd"
+work	"ovdec.vhd"

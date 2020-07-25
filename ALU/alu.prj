@@ -1,0 +1,8 @@
+vhdl work "adder.vhd"
+vhdl work "ovdec.vhd"
+vhdl work "m1.vhd"
+vhdl work "M.vhd"
+vhdl work "fulladder.vhd"
+vhdl work "msbalu.vhd"
+vhdl work "alu1.vhd"
+vhdl work "alu.vhd"

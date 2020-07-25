@@ -1,0 +1,3 @@
+vhdl work "m1.vhd"
+vhdl work "alu.vhd"
+vhdl work "adder.vhd"

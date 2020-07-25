@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="alu2" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode></ClosedNode>
+         <ClosedNode>/alu - Behavioral C:|Users|mohme|Desktop|alu2|alu.vhd</ClosedNode>
+         <ClosedNode>/alu - Behavioral C:|Users|mohme|Desktop|alu2|alu.vhd/m44 - full_adder - myfulladd</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu1 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu10 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu11 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu12 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu13 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu14 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu15 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu16 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu17 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu18 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu19 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu20 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu21 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu22 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu23 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu24 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu25 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu26 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu27 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu28 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu29 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu3 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu30 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu31 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu32 - msbalu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu4 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu5 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu6 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu7 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu8 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd/alu9 - alu - Behavioral</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>uut - alu32 - Behavioral (C:/Users/mohme/Desktop/alu2/alu32.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000008c000000020000000000000000000000000200000064ffffffff0000008100000003000000020000008c0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>uut - alu32 - Behavioral (C:/Users/mohme/Desktop/alu2/alu32.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f6000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000011f000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d00000001000000000000002100000001000000000000005d0000000100000000000000640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>C:\Users\mohme\Desktop\alu2\adder.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000f6000000010001000100000000000000000000000064ffffffff000000810000000000000001000000f60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Synthesize - XST</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e5000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Synthesize - XST</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu10 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu11 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu12 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu13 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu14 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu15 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu16 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu17 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu18 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu19 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu2 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu20 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu21 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu22 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu23 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu24 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu25 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu26 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu27 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu28 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu29 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu3 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu30 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu31 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu32 - msbalu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu4 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu5 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu6 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu7 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu8 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Users|mohme|Desktop|ALUTest.vhd/uut - alu32 - Behavioral/alu9 - alu - Behavioral</ClosedNode>
+         <ClosedNode>/alu - Behavioral C:|Users|mohme|Desktop|alu2|alu.vhd</ClosedNode>
+         <ClosedNode>/alu32 - Behavioral C:|Users|mohme|Desktop|alu2|alu32.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>alu2</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001bc000000020000000000000000000000000200000064ffffffff000000810000000300000002000001bc0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>alu2</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Regenerate All Cores</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f6000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Regenerate All Cores</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f6000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+</Project>
